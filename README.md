@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 Software developer<br>☕ Proficient in Java<br>📖 Constantly learning and improving technical skills<br>🚀 Goal-oriented and growth-focused developer<br>🫀 My code and I are in a relationship. It’s complicated.
+👩‍💻 Software developer<br>☕ Proficient in Java<br>📖 Constantly learning and improving technical skills<br>🚀 Goal-oriented and growth-focused developer<br>🫀 My code and me are in a relationship. It’s complicated.
 
 
 ## 🌐 Socials:
